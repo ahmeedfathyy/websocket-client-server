@@ -2,6 +2,7 @@
 
 This package implements a WebSocket server that performs calculations and a client that requests them.
 
+
 Environment Setup
 
 1. **Prerequisites:** Python 3.10+
